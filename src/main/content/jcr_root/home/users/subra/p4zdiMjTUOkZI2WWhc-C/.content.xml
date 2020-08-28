@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:authorizableCategory="mcm"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="c5edac1b-8c1d-38ba-990a-246d8f08f53b"
+    rep:authorizableId="sadmin"
+    rep:password="\{SHA-256}a28e140966a8ea91-1000-43147e3aea5b888cc2c44d108f0773b4b29fc19d4407cce355960f9c6bf86215"
+    rep:principalName="sadmin">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        email="raghava.joijode@gmail.com"
+        familyName="Admin"
+        givenName="Subra"/>
+</jcr:root>

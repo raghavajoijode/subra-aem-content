@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:Group"
+    jcr:uuid="a0b9a399-1e30-3d90-ac0d-2bd603907bb3"
+    rep:authorizableId="sadmins"
+    rep:members="{WeakReference}[c5edac1b-8c1d-38ba-990a-246d8f08f53b]"
+    rep:principalName="sadmins">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        givenName="Subra Admins"/>
+</jcr:root>

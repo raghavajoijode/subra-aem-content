@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:rep="internal"
+    jcr:primaryType="rep:SystemUser"
+    jcr:uuid="7e02dd2a-29ed-3c18-8da5-b813347cd6cc"
+    rep:authorizableId="subra-admin-user"
+    rep:principalName="subra-admin-user"/>

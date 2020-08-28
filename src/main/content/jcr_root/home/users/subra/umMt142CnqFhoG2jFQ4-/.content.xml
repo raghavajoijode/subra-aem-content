@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:authorizableCategory=""
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="84f1c294-3d24-3582-9b17-88f98b57a75e"
+    rep:authorizableId="sauthor"
+    rep:password="\{SHA-256}70f1d1e730f0f8c6-1000-7ac1215acc1d54dcf5ec6020d0eefb8713d8d097aa90785bcf6d36534991b538"
+    rep:principalName="sauthor">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        email="noreply.subra@gmail.com"
+        familyName="Author"
+        givenName="Subra"/>
+</jcr:root>

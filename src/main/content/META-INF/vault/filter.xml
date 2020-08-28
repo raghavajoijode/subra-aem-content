@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+	<filter root="/conf/kajado" mode="merge" />
+	<filter root="/conf/foundation" mode="merge" />
+	<filter root="/conf/rep:policy" mode="merge" />
+
+
+	<filter root="/content/foundation" mode="update" />
+	<filter root="/content/dam/foundation" mode="update" />
+	<filter root="/content/experience-fragments/foundation"
+		mode="update" />
+	<filter root="/content/rep:policy" mode="update" />
+	<filter root="/content/dam/core/api/xtj/out/rep:policy"
+		mode="update" />
+
+	<!-- <filter root="/etc/notification/email/subra"/> -->
+
+	<filter root="/etc/subra/core" mode="update" />
+	<filter root="/etc/rep:policy" mode="update" />
+
+	<filter root="/var" mode="merge">
+		<include pattern="/var/fms" />
+	</filter>
+
+	<filter root="/home/users/system/subra" mode="merge" />
+	<filter root="/home/users/subra" mode="merge" />
+	<filter root="/home/groups/subra" mode="merge" />
+	<filter
+		root="/home/groups/subra/UaTLkkQKRybLDfgGZN2G/rep:policy"
+		mode="update" />
+	<filter
+		root="/home/groups/subra/hKQco-ZilPNZRMWaocY1/rep:policy"
+		mode="update" />
+	<filter root="/home/users/subra/p4zdiMjTUOkZI2WWhc-C/rep:policy"
+		mode="update" />
+	<filter root="/home/users/subra/umMt142CnqFhoG2jFQ4-/rep:policy"
+		mode="update" />
+	<filter root="/home/rep:policy" mode="update" />
+
+	<filter root="/rep:policy" mode="update" />
+</workspaceFilter>
