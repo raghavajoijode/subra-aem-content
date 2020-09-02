@@ -4,7 +4,7 @@
 
 	<groupId>org.subra.aem</groupId>
     <artifactId>subra-aem-content</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
     <packaging>content-package</packaging>
     <name>Subra Common - UI content</name>
     <description>UI content package for Subra</description>
